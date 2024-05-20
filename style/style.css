@@ -6,3 +6,13 @@
 .profession__title{
     color: red;
 } 
+
+header{
+    background-color: rgb(255, 0, 0);
+}
+
+footer{
+    font-family: "Inter";
+    font-style: italic;
+    font-weight: 800;
+}
