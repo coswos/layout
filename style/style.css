@@ -16,3 +16,51 @@ footer{
     font-style: italic;
     font-weight: 800;
 }
+
+.invision{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+}
+.protopie{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+
+}
+.miro{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+
+}
+.photoshop{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+
+}
+.figma{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+
+}
+.illustrator{
+    position: absolute;
+    border: 2px solid #191919;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+
+}
