@@ -64,3 +64,22 @@ footer{
     line-height: 18px;
 
 }
+
+@media screen and (min-width: 390px) {
+    header{
+        background-color: blueviolet;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    header a {
+        margin-right: auto;
+    }
+    .for_media{
+        display: none;
+    }
+    
+}
+header:hover{
+    background-color: aqua;
+}
